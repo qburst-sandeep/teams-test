@@ -3,19 +3,17 @@
   "version": "1.0.0",
   "private": true,
   "dependencies": {
-    "@craco/craco": "~6.0.0",
+    "@craco/craco": "~6.0.1",
     "@microsoft/teams-js": "~1.9.0",
     "@szhsin/react-menu": "~1.8.0",
     "@tanem/react-nprogress": "~3.0.55",
     "axios": "~0.21.1",
-    "react": "~17.0.1",
+    "react": "~17.0.2",
     "react-content-loader": "~6.0.1",
     "react-dom": "~17.0.1",
     "react-query": "~3.6.1",
     "react-router-dom": "~5.2.0",
-    "react-scripts": "4.0.1",
-    "react-tooltip": "~4.2.14",
-    "web-vitals": "~0.2.4"
+    "react-scripts": "4.0.1"
   },
   "devDependencies": {
     "@tailwindcss/postcss7-compat": "2.0.2",
